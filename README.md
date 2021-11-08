@@ -1,31 +1,23 @@
-# Flexible-Jekyll is a simple and clean theme for Jekyll
+# Skinny Bones Jekyll Starter
 
-![](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/promo-img.jpg?raw=true)
+Just a little something I'm using to jump start a site refresh. I like to think of it as a starter for building your own Jekyll site. I purposely keep the styling minimal and bare to make it easier to add your own flare and markup.
 
-## Demo
+![screenshot of Skinny Bones](http://mmistakes.github.io/jekyll-theme-skinny-bones/images/skinny-bones-theme-feature.jpg)
 
-Check the theme in action [Demo](https://artemsheludko.github.io/flexible-jekyll/)
+---
 
-The main page would look like this:
+## Notable Features
 
-![Main page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/home-page.jpg?raw=true)
+* Jekyll 3.x and GitHub Pages compatible.
+* Stylesheet built using Sass.
+* Data files for easier customization of the site navigation/footer and for supporting multiple authors.
+* Optional Disqus comments, table of contents, social sharing links, and Google AdSense ads.
+* And more.
 
-The post page would look like this:
+## More Jekyll Themes
 
-![Post page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/post-example.jpg?raw=true)
+Check out my more popular Jekyll themes, available as Ruby gems and 100% GitHub Pages compatible.
 
-## Features
-
-- [Google Fonts](https://fonts.google.com/)
-- [Font Awesome](http://fontawesome.io/)
-- [Disqus](https://disqus.com/)
-- [Analytics](https://analytics.google.com/analytics/web/)
-- Support Emoji
-
-## Installation:
-
-Fork the ``master`` branch and follow the [Jekyll Installation Documentation](https://jekyllrb.com/docs/installation/).
-
-## License
-
-GNU General Public License v3.0
+* [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes)
+* [So Simple](https://github.com/mmistakes/so-simple-theme)
+* [Basically Basic](https://github.com/mmistakes/jekyll-theme-basically-basic)
