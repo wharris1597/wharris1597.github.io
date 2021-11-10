@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Home - Simple Blog Template</title>
+    <title>Sign up - Simple Blog Template</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -60,64 +60,47 @@
       <!-- /.container -->
     </nav>
 
+
     <!-- Page Content -->
     <div class="container">
 
       <div class="row">
 
-        <!-- Blog Entries Column -->
-        <div class="col-md-12">
+        <div class="col-lg-2"></div>
 
-          <!-- First Blog Post -->
-          <h2 class="post-title">
-            <a href="post.html">Blog Post Title</a>
-          </h2>
-          <p class="lead">
-            by Author
-          </p>
-          <p><span class="glyphicon glyphicon-time"></span> Posted on August 28, 2013 at 10:00 PM</p>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, veritatis, tempora, necessitatibus inventore nisi quam quia repellat ut tempore laborum possimus eum dicta id animi corrupti debitis ipsum officiis rerum.</p>
-          <a class="btn btn-default" href="post.html">Read More</a>
+        <!-- Signup content  -->
+        <div class="col-lg-8 signup">
 
-          <hr>
+          <!-- Title -->
+          <h1>Sign up</h1>
 
-          <!-- Second Blog Post -->
-          <h2 class="post-title">
-            <a href="post.html">Blog Post Title</a>
-          </h2>
-          <p class="lead">
-            by Author
-          </p>
-          <p><span class="glyphicon glyphicon-time"></span> Posted on August 28, 2013 at 10:45 PM</p>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, quasi, fugiat, asperiores harum voluptatum tenetur a possimus nesciunt quod accusamus saepe tempora ipsam distinctio minima dolorum perferendis labore impedit voluptates!</p>
-          <a class="btn btn-default" href="post.html">Read More</a>
+          <!-- Login form -->
+          <form action="/blog/signup" method="post" class="signup-form">
+            <div class="form-group">
+              <label for="username">Username</label>
+              <input type="text" id="username" name="username" class="form-control">
+            </div>
 
-          <hr>
+            <div class="form-group">
+              <label for="password">Password</label>
+              <input type="password" id="password" name="password" class="form-control">
+            </div>
 
-          <!-- Third Blog Post -->
-          <h2 class="post-title">
-            <a href="post.html">Blog Post Title</a>
-          </h2>
-          <p class="lead">
-            by Author
-          </p>
-          <p><span class="glyphicon glyphicon-time"></span> Posted on August 28, 2013 at 10:45 PM</p>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate, voluptates, voluptas dolore ipsam cumque quam veniam accusantium laudantium adipisci architecto itaque dicta aperiam maiores provident id incidunt autem. Magni, ratione.</p>
-          <a class="btn btn-default" href="post.html">Read More</a>
+            <div class="form-group">
+              <label for="password">Password Confirmation</label>
+              <input type="password" id="confirmation" name="confirmation" class="form-control">
+            </div>
 
-          <hr>
-
-          <!-- Pager -->
-          <ul class="pager">
-            <li class="previous">
-              <a href="#">Prev</a>
-            </li>
-            <li class="next">
-              <a href="#">Next</a>
-            </li>
-          </ul>
-
+            <div class="form-group">
+              <label for="username">Email(Optional)</label>
+              <input type="email" id="email" name="email" class="form-control">
+            </div>
+            <button type="submit" class="btn btn-primary">Sign up</button>
+          </form>
+          <!-- /form -->
         </div>
+
+        <div class="col-lg-2"></div>
 
       </div>
       <!-- /.row -->
@@ -137,7 +120,6 @@
         <!-- /.row -->
       </div>
     </footer>
-
 
     <!-- jQuery -->
     <script src="js/jquery.js"></script>

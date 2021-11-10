@@ -1,27 +1,31 @@
-# Your new Super Blog
+# Simple Blog Template
 
-This project is a fabulous template to develop your shiny new super blog.
+[Simple Blog Template](https://earlbread.github.io/simple-blog-template/)
+is a basic blog homepage HTML starter template forked from 
+[Startbootstrap Blog Home](https://github.com/BlackrockDigital/startbootstrap-blog-home).
 
-In this project I am using html, css and is 100% responsive.
+## Getting Started
 
-## Preview
-#### Landing page
-![](https://github.com/chrisogeek/Template-Tech-Blog/blob/master/Mi%20blog%201.png)
+To begin using this template, choose one of the following options to get started:
+* Clone the repo: `git clone https://github.com/earlbread/simple-blog-template.git`
+* Fork the repo
 
-#### Blog post page
-![](https://github.com/chrisogeek/Template-Tech-Blog/blob/master/Mi%20blog%202.png)
+## Creator
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Simple Blog Template was created by and is maintained by 
+[Seunghun Lee](https://github.com/earlbread).
 
-Please make sure to update tests as appropriate.
+* https://linkedin.com/in/waydi1
+* https://github.com/earlbread
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+Simple Blog Template is based on the 
+[Bootstrap](http://getbootstrap.com/) framework created by 
+[Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat),
+and forked from 
+[Startbootstrap Blog Home](https://github.com/BlackrockDigital/startbootstrap-blog-home).
 
 
+## Copyright and License
 
-------------
+Copyright 2016 Seunghun Lee. Code released under the [MIT](https://github.com/earlbread/simple-blog-template/blob/master/LICENSE) license.
 
-
-> **This is not the end, it is only the beginning ...** :dragon_face:
